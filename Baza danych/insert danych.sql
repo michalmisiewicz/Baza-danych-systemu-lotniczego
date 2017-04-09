@@ -1,0 +1,160 @@
+insert into PERSON(PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, BIRTH_DATE, COUNTRY)  values(1000, 'Arcadio', 'Moralez', 'M', TO_DATE('31/12/1985', 'dd/mm/yyyy'), 'San Escobar');
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1001, 'Ernest', 'Harvey', 'M', 'Japan', to_date('09/06/1952', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1002, 'Amy', 'Gray', 'F', 'China', to_date('12/12/1952', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1003, 'Jimmy', 'Oliver', 'M', 'Russia', to_date('09/22/1972', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1004, 'Albert', 'Hicks', 'M', 'North Korea', to_date('11/19/1969', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1005, 'Fred', 'Alvarez', 'M', 'Russia', to_date('01/16/1980', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1006, 'Carl', 'Montgomery', 'M', 'Colombia', to_date('11/25/1942', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1007, 'Debra', 'Carpenter', 'F', 'Japan', to_date('03/06/1985', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1008, 'Cynthia', 'Graham', 'F', 'Venezuela', to_date('08/20/1994', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1009, 'Dorothy', 'Shaw', 'F', 'Peru', to_date('01/12/1962', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1011, 'Paula', 'Ross', 'F', 'Indonesia', to_date('10/25/1959', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1012, 'Patricia', 'Medina', 'F', 'Saudi Arabia', to_date('07/27/1997', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1013, 'Raymond', 'Wood', 'M', 'China', to_date('08/09/1986', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1014, 'Beverly', 'Diaz', 'F', 'Serbia', to_date('02/25/1998', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1015, 'Shawn', 'Harper', 'M', 'Germany', to_date('01/20/1975', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1016, 'Barbara', 'Hudson', 'F', 'Portugal', to_date('02/19/1974', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1017, 'Irene', 'King', 'F', 'Israel', to_date('02/25/1964', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1018, 'Irene', 'Medina', 'F', 'China', to_date('04/16/1967', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1019, 'Deborah', 'Cole', 'F', 'China', to_date('05/10/1994', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1020, 'Amanda', 'Ramos', 'F', 'Honduras', to_date('07/26/1957', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1021, 'Angela', 'Ramirez', 'F', 'Saudi Arabia', to_date('10/14/1968', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1022, 'Lori', 'Stevens', 'F', 'France', to_date('05/13/1957', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1023, 'Eugene', 'Mitchell', 'M', 'Russia', to_date('11/02/1984', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1024, 'Beverly', 'Armstrong', 'F', 'Belize', to_date('08/09/1953', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1025, 'Julia', 'Bradley', 'F', 'New Zealand', to_date('09/26/1942', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1026, 'Diane', 'Lopez', 'F', 'Pitcairn', to_date('03/16/1983', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1027, 'Nancy', 'Wilson', 'F', 'Nicaragua', to_date('05/23/1970', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1028, 'Stephen', 'Bennett', 'M', 'Russia', to_date('03/30/1994', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1029, 'Keith', 'Wood', 'M', 'Brazil', to_date('07/17/1987', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1030, 'Randy', 'Harvey', 'M', 'Libya', to_date('08/05/1963', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1031, 'Wayne', 'Patterson', 'M', 'Serbia', to_date('07/25/1975', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1032, 'Jonathan', 'Owens', 'M', 'Portugal', to_date('12/10/1973', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1033, 'Marilyn', 'Cooper', 'F', 'Norway', to_date('06/25/1977', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1034, 'Johnny', 'Ruiz', 'M', 'China', to_date('04/02/1986', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1035, 'Nancy', 'Knight', 'F', 'China', to_date('04/09/1983', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1036, 'Carlos', 'Bailey', 'M', 'Ukraine', to_date('10/06/1952', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1037, 'Johnny', 'Gonzales', 'M', 'Brazil', to_date('09/01/1964', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1038, 'Ruth', 'Hunter', 'F', 'Greece', to_date('11/01/1978', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1039, 'Jennifer', 'Holmes', 'F', 'United States', to_date('03/22/1956', 'mm/dd/yyyy'));
+insert into PERSON (PASSPORT_NUMBER, FIRST_NAME, LAST_NAME, SEX, COUNTRY, BIRTH_DATE) values (1040, 'Jose', 'Hughes', 'M', 'Central African Republic', to_date('03/03/1941', 'mm/dd/yyyy'));
+
+insert into PASSANGER (ID, PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (1, 1026, 'amorris1@un.org', 'I4JoMMjRIOo', '4041371003532007');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (2, 1004, 'acollins2@instagram.com', '17is5ob', '3540707472326850');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (3, 1015, 'snelson3@amazon.co.jp', '6fVYco0XP5', '3529802029073892');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (4, 1032, 'tbishop4@state.gov', 'YvRRovd', '3586214494747770');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (5, 1034, 'gmorales6@ycombinator.com', '63RaJe9mT', '201581526131566');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (6, 1040, 'gramos7@cnbc.com', 'dqRhOtYDy', '503842257212782289');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (7, 1031, 'jsanders8@weather.com', 'CnbUJ7px8a', '3584262894541881');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (8, 1013, 'mspencer9@springer.com', 'R4sxNeY', '5602212752034720');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (9, 1006, 'jreeda@usatoday.com', 'XYOzHa0oZAwO', '3565438489287089');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (10, 1005, 'brobertsb@webmd.com', 'gA95yki', '3532203857285150');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (11, 1008, 'jsandersc@abc.net.au', 'KyF1krFl', '3531210993645008');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (12, 1035, 'mfowlerd@dedecms.com', 'u1RRz7budPhF', '3584538875555424');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (13, 1036, 'pmorenof@blinklist.com', 'E7SrOXoTW', '67636872379707485');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (14, 1012, 'aturnerh@nhs.uk', 'twr7Ek', '3563485804236525');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (15, 1024, 'jgarciai@mapy.cz', '2aJfiFEiuX', '3581461100010789');
+insert into PASSANGER (ID,PASSPORT_NUMBER, ACCOUNT_LOGIN, ACCOUNT_PASSWORD, CREDIT_CARD_NUMBER) values (16, 1022, 'jcolemanj@nationalgeographic.com', 'XPQEKY4qt', '6377633139817530');
+
+
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(1, 'LOT', TO_DATE('1/10/1929', 'dd/mm/yyyy'), 'Poland');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(2, 'AIR FRANCE', TO_DATE('7/10/1933', 'dd/mm/yyyy'), 'France');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(3, 'Etihad Airways', TO_DATE('1/10/2003', 'dd/mm/yyyy'), 'United Arab Emirates');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(4, 'Lufthansa', TO_DATE('17/3/1926', 'dd/mm/yyyy'), 'Germany');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(5, 'Ryanair', TO_DATE('7/6/1985', 'dd/mm/yyyy'), 'Irland');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(6, 'TAP Portugal', TO_DATE('14/3/1945', 'dd/mm/yyyy'), 'Portugal');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(7, 'Turkish Airlines', TO_DATE('14/3/1933', 'dd/mm/yyyy'), 'Turkey');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(8, 'Qatar Airways', TO_DATE('14/7/1993', 'dd/mm/yyyy'), 'Qatar');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(9, 'Emirates', TO_DATE('25/10/1985', 'dd/mm/yyyy'), 'Qatar');
+INSERT INTO AIRLINES(ID, NAME, ESTABLISHED_DATE, HQ_LOCATION)
+VALUES(10, 'Wizz Air', TO_DATE('14/6/2003', 'dd/mm/yyyy'), 'Hungary');
+
+INSERT INTO PILOT(LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY)
+VALUES(100, 1000, 1, 5, 5000);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (102, 1009, 7, 18, 2684);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (103, 1039, 1, 7, 4334);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (104, 1018, 6, 2, 2995);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (105, 1001, 8, 4, 3792);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (106, 1037, 6, 12, 4471);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (107, 1033, 8, 16, 2833);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (108, 1029, 4, 9, 8380);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (109, 1013, 5, 18, 5670);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (110, 1025, 1, 13, 5399);
+insert into PILOT (LICENCE_NUMBER, PASSPORT_NUMBER, AIRLINES_ID, EXPERIENCE, SALARY) values (101, 1008, 10, 19, 7860);
+
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (1, 1005, 'engineer', 7643, 670803975);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (2, 1040, 'master', 5835, 954844575);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (3, 1022, 'master', 4454, 821495619);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (4, 1020, 'doctor', 3883, 415350604);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (5, 1034, 'doctor', 7347, 337266481);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (6, 1003, 'master', 6488, 132709314);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (7, 1032, 'master', 8157, 478536521);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (8, 1036, 'bachelor', 2565, 329847899);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (9, 1026, 'doctor', 7104, 195982532);
+insert into TRAFFIC_CONTROLLER (LICENCE_NUMBER, PASSPORT_NUMBER, UNIVERSITY_DEGREE, SALARY, EMERGENCY_NUMBER) values (10, 1017, 'master', 9935, 282061562);
+
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(1, 'Lotnisko Chopina', 'Warsaw', 'Poland', 2);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(2, 'Heathrow', 'London', 'England', 4);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(3, 'JFK International Airport', 'New York', 'USA', 6);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(4, 'Beijing Airport', 'Beijing', 'China', 8);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(5, 'Cape Town Airport', 'Cape Town', 'South Africa', 10);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(6, 'Narita International Airport', 'Tokyo', 'Japan', 1);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(7, 'Lisbon Humberto Delgado Airport', 'Lisbon', 'Portugal', 3);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(8, 'Rio de Janeiro International Airport', 'Rio de Janeiro', 'Brasilia', 5);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(9, 'Charles de Gaulle Airport', 'Paris', 'France', 7);
+INSERT INTO AIRPORT(ID, NAME, CITY, COUNTRY, TRAFFIC_CONTROLLER)
+VALUES(10, 'Singapore Changi Airport', 'Singapore', 'Singapore', 9);
+
+INSERT INTO PLANE(PLANE_ID, MANUFACTURER,MODEL,DATE_OF_PROD, AIRLINES_ID, CAPACITY) VALUES(1, 'Boeing', '787', TO_DATE('1/5/2016', 'dd/mm/yyyy'), 1, 300);
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (2, 'Boeing', 787, 3, 253, to_date('07/13/2000', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (3, 'Boeing', 767, 1, 281, to_date('07/07/1992', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (4, 'Boeing', 777, 6, 216, to_date('03/25/2013', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (5, 'Boeing', 767, 10, 256, to_date('12/02/1993', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (6, 'Airbus', 'A380', 9, 107, to_date('02/27/1998', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (7, 'Airbus', 'A330', 1, 121, to_date('07/22/2002', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (8, 'Airbus', 'A380', 1, 269, to_date('11/23/2012', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (9, 'Airbus', 'A380', 9, 123, to_date('01/08/1991', 'mm/dd/yyyy'));
+insert into PLANE (PLANE_ID, MANUFACTURER, MODEL, AIRLINES_ID, CAPACITY, DATE_OF_PROD) values (10, 'Airbus', 'A340', 7, 184, to_date('02/22/1998', 'mm/dd/yyyy'));
+
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (1, 6, 1, 3, 102,  to_timestamp('06/10/2017 16:45','MM/DD/YYYY HH24:MI'), to_timestamp('06/10/2017 23:15','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (2, 4, 9, 10, 107, to_timestamp('08/29/2017 2:54','MM/DD/YYYY HH24:MI'), to_timestamp('08/29/2017 12:34','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (3, 3, 2, 8, 109,  to_timestamp('02/14/2017 12:28','MM/DD/YYYY HH24:MI'), to_timestamp('02/15/2017 00:28','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (4, 1, 2, 2, 101,  to_timestamp('01/10/2017 11:43','MM/DD/YYYY HH24:MI'), to_timestamp('01/10/2017 14:23','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (5, 2, 8, 3, 110,  to_timestamp('08/25/2017 5:54','MM/DD/YYYY HH24:MI'), to_timestamp('08/25/2017 15:24','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (6, 1, 4, 4, 103,  to_timestamp('07/22/2017 17:19','MM/DD/YYYY HH24:MI'), to_timestamp('07/23/2017 05:36','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (7, 8, 9, 3, 101,  to_timestamp('09/17/2017 10:28','MM/DD/YYYY HH24:MI'), to_timestamp('09/17/2017 17:27','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (8, 5, 3, 8, 104,  to_timestamp('02/20/2017 11:23','MM/DD/YYYY HH24:MI'), to_timestamp('02/20/2017 18:50','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (9, 5, 7, 5, 103,  to_timestamp('06/02/2017 2:46','MM/DD/YYYY HH24:MI'), to_timestamp('06/02/2017 9:33','MM/DD/YYYY HH24:MI'));
+insert into FLIGHT (ID, SOURCE, DESTINATION, PLANE, PILOT, DEPARTURE_TIME, ARRIVAL_TIME) values (10, 9, 6,3, 100,  to_timestamp('10/30/2017 12:59','MM/DD/YYYY HH24:MI'), to_timestamp('10/30/2017 22:33','MM/DD/YYYY HH24:MI'));
+
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (2, 5);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (10, 1);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (3, 16);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (10, 4);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (5, 13);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (5, 10);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (1, 2);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (8, 6);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (8, 7);
+insert into PASSANGER_LIST (FLIGHT_ID, PASSANGER_ID) values (3, 8);
+
+
+COMMIT WORK;
