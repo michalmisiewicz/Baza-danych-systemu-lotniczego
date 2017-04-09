@@ -12,7 +12,8 @@
 
 
 ![ScreenShot](https://raw.github.com/michalmisiewicz/Baza-danych-systemu-lotniczego/master/screenshots/screenshot1.PNG)
-<br />
+
+
 ![ScreenShot](https://raw.github.com/michalmisiewicz/Baza-danych-systemu-lotniczego/master/screenshots/screenshot2.PNG)
 
 ##### Uwaga: Aplikacja pobiera adres URL serwera, login i hasło użytkownika z pliku airscanner.properties 
