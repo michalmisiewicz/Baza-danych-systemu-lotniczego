@@ -10,7 +10,10 @@
 ### W ramach projektu została napisana aplikacja kliencka prezentująca wybrane funkcje bazy danych. 
 Aplikacja została napisana w Javie z wykorzystaniem JavaFx.
 
+
 ![ScreenShot](https://raw.github.com/michalmisiewicz/Baza-danych-systemu-lotniczego/master/screenshots/screenshot1.PNG)
+
+
 
 ![ScreenShot](https://raw.github.com/michalmisiewicz/Baza-danych-systemu-lotniczego/master/screenshots/screenshot2.PNG)
 
