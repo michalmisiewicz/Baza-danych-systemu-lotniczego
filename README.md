@@ -8,7 +8,7 @@
 ![ScreenShot](https://raw.github.com/michalmisiewicz/Baza-danych-systemu-lotniczego/master/Model%20fizyczny/model%20fizyczny.PNG)
 
 #### W ramach projektu została napisana aplikacja kliencka prezentująca wybrane funkcje bazy danych. 
-##### Aplikacja została napisana w Javie z wykorzystaniem JavaFx.
+Aplikacja została napisana w Javie z wykorzystaniem JavaFx.
 
 
 ![ScreenShot](https://raw.github.com/michalmisiewicz/Baza-danych-systemu-lotniczego/master/screenshots/screenshot1.PNG)
